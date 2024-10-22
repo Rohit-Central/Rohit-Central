@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohit-Central
-- 👀 I’m interested in SPring Boot, Node, Spring Cloud
+- 👀 I’m interested in Spring Boot, Node, Spring Cloud
 - 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on Spring CLoud
 - 📫 How to reach me rohitshrivastava.inbox@gmail.com
